@@ -1,0 +1,15 @@
+{
+  "name": "Nueva carpeta",
+  "tree": {
+    "$className": "DataModel",
+
+    "ServerScriptService": {
+      "ColorPalettePlugin": {
+        "packages": {
+          "$path": "Packages"
+        },
+        "$path": "src"
+      }
+    }
+  }
+}
